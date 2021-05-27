@@ -1,0 +1,1 @@
+please install pygame,python,pillow to run this code
